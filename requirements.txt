@@ -1,0 +1,2 @@
+# Requirements file for eccom conda environment
+# Add your dependencies below, one per line
